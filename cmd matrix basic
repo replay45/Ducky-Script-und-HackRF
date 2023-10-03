@@ -1,0 +1,67 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zu Aufklärungs- & Bildungszwecken !
+Zudem ist die Anleitung verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+
+
+
+WICHTIG:
+Der Dateipfad muss immer geprüft und ggf. angepasst werden.
+
+Durch das Tastaturlayout können Zeichen wie ":" oder "@" zu problemen führen.
+
+
+Lösungsvorschlag:
+Tastauturlayout in windows zu "englisch" anpassen.
+
+
+
+
+
+DELAY 1000
+GUI r
+DELAY 2000
+STRING notepad
+ENTER 
+DELAY 1000
+STRING @echo off
+ENTER
+DELAY 200
+STRING color 0a 
+ENTER
+DELAY 200
+STRING mode 1000
+ENTER
+DELAY 500
+STRING :a
+ENTER
+DELAY 2000
+STRING echo %111 0 101 010 10 101 111 0 101 010 10 101 01 10 111 0 1011 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10% 
+ENTER
+STRING echo %11 0 101 010 10 101 01 10 111 0 1 111 0 101 010 10 101 01 10 111 0 101 0 101 010 10 1010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 1 10 111 0 101 010 10 101 01 10 111 0 101 010 10%  
+ENTER
+STRING echo %111 0 101 010 10 101 011 0 101 010 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 101 01 10 111 0 101 010 10 10%  
+ENTER
+ENTER
+DELAY 200
+STRING goto a
+ENTER 
+DELAY 200
+CTRL S 
+DELAY 1000
+STRING matrixbasic.bat
+ENTER 
+DELAY 1000
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 500
+STRING cd ! DEIN PFAD HIER !
+ENTER
+DELAY 2000
+STRING matrixbasic.bat
+ENTER
+DELAY 3000
+ENTER
