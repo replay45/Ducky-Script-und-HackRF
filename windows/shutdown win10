@@ -1,0 +1,28 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zu Aufklärungs- & Bildungszwecken !
+Zudem ist die Anleitung verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+
+
+
+
+Fährt einen Windows PCherunter.
+
+cmd commands:
+shutdown/s  -> Sut down pc immediately
+shutdown/a  -> Abort/stopps a planned shutdown
+shutdown/r  -> reboots the pc
+shutdown/l  -> log off cucurrent user
+
+
+
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 100
+STRING shutdown/s
+DELAY 1000
+ENTER
