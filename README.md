@@ -1,8 +1,8 @@
 # ducky script
 
 
-Die ducky scripts sollen veranschaulichen, was die Folgen von Unachtsamkeit, bei der Nutzung von fremden USB-Kabeln sein können.
+Die ducky Skripte sollen veranschaulichen, was die Folgen von Unachtsamkeit, bei der Nutzung von fremden USB-Kabeln/Geräten sein können.
 
 
 Hinweis:
-Die Skripte müssen ggf. angepasst werden !
+Die Skripte müssen ggf. auf die Gegebenheiten etwas angepasst werden !
