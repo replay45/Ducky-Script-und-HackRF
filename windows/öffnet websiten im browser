@@ -1,0 +1,69 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zu Aufklärungs- & Bildungszwecken !
+Zudem ist die Anleitung verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+
+Öffnet den Link in mehreren Tabs im Standart-Browser.
+
+
+
+DEFAULTDELAY 5000
+GUI r
+DELAY 500
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
