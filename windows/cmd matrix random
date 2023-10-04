@@ -1,0 +1,65 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zu Aufklärungs- & Bildungszwecken !
+Zudem ist die Anleitung verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+
+
+
+WICHTIG:
+Der Dateipfad muss immer geprüft und ggf. angepasst werden.
+
+Durch das Tastaturlayout können Zeichen wie ":" oder "@" zu problemen führen.
+
+
+Lösungsvorschlag:
+Tastauturlayout in windows zu "englisch" anpassen.
+
+
+
+DELAY 1000
+GUI r
+DELAY 2000
+STRING notepad
+ENTER 
+DELAY 1000
+STRING @echo off
+ENTER
+ENTER
+DELAY 200
+STRING color 0a 
+ENTER
+ENTER
+DELAY 200
+STRING mode 1000
+ENTER
+ENTER
+DELAY 500
+STRING :a
+ENTER
+ENTER
+DELAY 2000
+STRING echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+ENTER
+ENTER
+DELAY 200
+STRING goto a
+ENTER 
+DELAY 200
+CTRL S 
+DELAY 1000
+STRING matrix.bat
+ENTER 
+DELAY 1000
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 500
+STRING cd Desktop
+ENTER
+DELAY 2000
+STRING matrix.bat
+ENTER
+DELAY 3000
+ENTER
