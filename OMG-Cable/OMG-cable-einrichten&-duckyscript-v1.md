@@ -89,3 +89,51 @@ Hinweis: Je nach OMG-Cable Version/ Modell können die Spezifikationen abweichen
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# 2. Befehlsübersicht von DuckyScript
+
+
+## 1. Übersicht:
+
+- REM: Der REM-Befehl wird verwendet, um Kommentare im Skript einzufügen, die nicht ausgeführt werden.
+- DELAY: Der DELAY-Befehl legt eine Verzögerung zwischen den Befehlen fest, die ausgeführt werden.
+- STRING: Der STRING-Befehl wird verwendet, um Text in das Ziel-System einzufügen.
+- MENU: Der MENU-Befehl wird verwendet, um das Kontextmenü aufzurufen.
+- RUN: Der RUN-Befehl wird verwendet, um ein bestimmtes Programm oder eine Datei auszuführen.
+
+
+
+
+## 2. Tastatur-Optionen:
+
+- ENTER: Der ENTER-Befehl simuliert das Drücken der Eingabetaste.
+- TAB: Der TAB-Befehl simuliert das Drücken der Tabulatortaste.
+- SHIFT: Der SHIFT-Befehl wird verwendet, um die Umschalttaste zu drücken.
+- ALT: Der ALT-Befehl wird verwendet, um die Alt-Taste zu drücken.
+- GUI: Der GUI-Befehl wird verwendet, um die Windows- oder Command-Taste auf einem Mac zu drücken.
+- CONTROL: Der CONTROL-Befehl wird verwendet, um die Strg-Taste zu drücken.
+- UP und DOWN: Diese Befehle können verwendet werden, um Pfeiltasten auf der Tastatur zu simulieren.
+- ESC: Der ESC-Befehl wird verwendet, um die Escape-Taste zu drücken.
+- CAPSLOCK: Aktiviert oder deaktiviert die Caps-Lock-Taste.
+- NUMLOCK: Aktiviert oder deaktiviert die Num-Lock-Taste.
+- SCROLLLOCK: Aktiviert oder deaktiviert die Scroll-Lock-Taste.
+- HOME und END: Simulieren die Home- und End-Tasten.
+- PAGEUP und PAGEDOWN: Simulieren die Page-Up- und Page-Down-Tasten.
+
+
+
+
+## 3. Maus-Optionen:
+
+- MOUSEMOVE: Bewegt die Maus an eine bestimmte Position auf dem Bildschirm.
+- CLICK: Klickt mit der linken Maustaste.
+- RIGHTCLICK: Klickt mit der rechten Maustaste.
+- MIDDLECLICK: Klickt mit der mittleren Maustaste.
+- DOUBLECLICK: Doppelklickt mit der linken Maustaste.
+- SCROLL: Scrollt aufwärts oder abwärts.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
