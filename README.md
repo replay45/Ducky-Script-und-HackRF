@@ -1,4 +1,4 @@
-# ducky script
+# Ducky Script
 
 
 Die ducky Skripte sollen veranschaulichen, was die Folgen von Unachtsamkeit bei der Nutzung von fremden USB-Kabeln/Geräten sein können.
