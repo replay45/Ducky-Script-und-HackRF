@@ -1,0 +1,17 @@
+REM reboot or restart a PC
+REM You can adjust the script with the following commands for cmd:
+REM shutdown/s - Shut down pc immediately
+REM shutdown/a - Abort/stopps a planned shutdown
+REM shutdown/r - reboots the pc
+REM shutdown/l - log off cucurrent user
+REM Different keyboard layouts shouldn't be a problem, recommendation for DuckyScript: english (US)
+REM in this example: reboot
+DELAY 2000
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 1000
+STRING shutdown/r
+DELAY 500
+ENTER
