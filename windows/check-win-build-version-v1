@@ -1,9 +1,0 @@
-check Windows 10 build-Version
-
-
-
-Gui r
-DELAY 1000
-STRING winver
-DELAY 1000
-ENTER
