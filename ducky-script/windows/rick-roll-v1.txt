@@ -1,0 +1,30 @@
+REM rick roll someone on win10
+REM opens YouTube video and enter in full screen
+REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
+DELAY 200
+GUI r
+DELAY 500
+STRING powershell.exe
+DELAY 100
+ENTER
+DELAY 500
+REM set speaker volume on 100%
+STRING Function Set-Speaker($Volume){$wshShell = new-object -com wscript.shell;1..50 | % {$wshShell.SendKeys([char]174)};1..$Volume | % {$wshShell.SendKeys([char]175)}}
+DELAY 200
+ENTER
+DELAY 500
+STRING Set-Speaker -Volume 100
+DELAY 100
+ENTER
+DELAY 200
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 100
+ENTER
+DELAY 2000
+REM f11 is triggered so it looks like more real in full screen
+F11
+DELAY 3000
+STRING f
+ENTER
