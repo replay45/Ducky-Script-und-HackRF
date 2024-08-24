@@ -1,0 +1,67 @@
+REM pen this website on default browser in many tabs on win10
+REM here used: www.youtube.com
+REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
+DEFAULTDELAY 5000
+GUI r
+DELAY 500
+STRING www.youtube.com
+DELAY 500
+ENTER
+DELAY 5000
+DELAY 500
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+DELAY 500
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+DELAY 500
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
+CTRL t
+STRING www.youtube.com
+ENTER
