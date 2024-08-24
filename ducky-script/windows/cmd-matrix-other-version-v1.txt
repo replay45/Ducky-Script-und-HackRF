@@ -1,0 +1,55 @@
+REM create a script in .bat format and launch it in cmd, so it starts matrix
+REM The file path must always be checked and adjusted if necessary !
+REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
+DELAY 1000
+GUI r
+DELAY 200
+STRING notepad
+ENTER 
+DELAY 200
+STRING @echo off
+ENTER
+ENTER
+DELAY 200
+STRING color 02 
+ENTER
+ENTER
+DELAY 1000
+STRING mode 1000
+ENTER
+ENTER 
+DELAY 1000
+STRING :matrixbynima
+ENTER
+ENTER
+DELAY 1000
+STRING echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+ENTER
+ENTER
+DELAY 1000
+STRING goto matrixbynima
+ENTER 
+DELAY 200
+CTRL S 
+DELAY 2000
+REM change path to your user or the devices user that your using this on  
+STRING matrix.bat
+ENTER 
+DELAY 200
+GUI r
+STRING cmd
+ENTER
+REM again change path to your user or the devices user that your using this on 
+STRING cd Desktop
+ENTER
+DELAY 2000
+STRING matrix.bat
+DELAY 500
+ENTER
+DELAY 500
+ALT SPACE
+DOWNARROW 
+DOWNARROW 
+DOWNARROW 
+DOWNARROW 
+ENTER
