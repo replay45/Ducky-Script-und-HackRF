@@ -1,5 +1,5 @@
 REM rick roll someone on win10
-REM opens YouTube video and enter in full screen
+REM Opens YouTube video and enters in full screen.
 REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
 DELAY 200
 GUI r
