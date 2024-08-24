@@ -1,0 +1,13 @@
+REM open windows93 website in browser and will take it in full screen
+REM then it looks like the PC has win93
+REM Different keyboard layouts shouldn't be a problem, recommendation for DuckyScript: english (US)
+DELAY 500
+GUI r
+DELAY 500
+REM takes the users computer to a fake windows93 site
+STRING http://www.windows93.net/
+ENTER
+DELAY 1000
+REM f11 is triggered so it looks like a real desktop
+F11
+ENTER
