@@ -1,4 +1,4 @@
-REM check Windows 10 build-Version
+REM check Windows 10 build-version
 REM Different keyboard layouts shouldn't be a problem, recommendation for DuckyScript: english (US)
 Gui r
 DELAY 1000
