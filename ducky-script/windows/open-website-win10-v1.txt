@@ -1,4 +1,4 @@
-REM pen this website on default browser in many tabs on win10
+REM open this website on default browser in many tabs on win10
 REM here used: www.youtube.com
 REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
 DEFAULTDELAY 5000
