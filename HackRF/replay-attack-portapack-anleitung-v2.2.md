@@ -42,7 +42,7 @@ Somit wurde die Frequenz ausfindig gemacht.
 
 
 - Die herausgefundene Frequenz einstellen:
-	- mit einem Klick auf die Frequenz direkt unter Capture, kann die gewünschte Frequenz eingegeben werden.
+	- Mit einem Klick auf die Frequenz direkt unter Capture, kann die gewünschte Frequenz eingegeben werden.
 	- Optional kann diese mit "save" auch gespeichert werden.
 
 - `Rate` beschreibt die Geschwindigkeit und Sichtweite des Wasserfalls.
