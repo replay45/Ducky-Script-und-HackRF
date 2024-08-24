@@ -1,0 +1,58 @@
+REM ONLY A HACKING DEMO
+REM opens the editor and write the picture in it
+REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
+DELAY 3000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+ENTER
+STRING                                .___.
+ENTER
+STRING            /)               ,-^     ^-. 
+ENTER
+STRING           //               /           \
+ENTER
+STRING  .-------| |--------------/  __     __  \-------------------.__
+ENTER
+STRING  |WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
+ENTER
+STRING  `-------| |--------------| \__/   \__/ |-------------------'^^
+ENTER
+STRING           \\               \    /|\    /
+ENTER
+STRING            \)               \   \_/   /
+ENTER
+STRING                              |       |
+ENTER
+STRING                              |+H+H+H+|
+ENTER
+STRING                              \       /
+ENTER
+STRING                               ^-----^
+ENTER
+STRING                +------------------------------------+
+ENTER
+STRING                | >>> IHR COMPUTER WURDE GEHACKT <<< |
+ENTER
+STRING                +------------------------------------+
+ENTER
+ENTER
+STRING                 Alle Ihre Passwoerter wurden mir 
+ENTER
+STRING                 inklusive Ihrer EBanking-Zugangsdaten
+ENTER
+STRING                 ueber das Internet uebermittelt...
+ENTER
+ENTER
+STRING                 Vielen Dank fuer Ihre Unterstuetzung!
+ENTER
+ENTER
+STRING                =======================================
+ENTER
+STRING                +++ HACKING +++ HACKING +++ HACKING +++
+ENTER
+STRING                =======================================
+ENTER
