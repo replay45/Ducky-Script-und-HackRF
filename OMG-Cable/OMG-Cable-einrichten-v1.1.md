@@ -6,13 +6,15 @@
 ### 1. Installation
 
 - Firmware herunterladen & Python installieren:
-	- Firmeware herunterladen: https://github.com/O-MG/O.MG_Cable-Firmware/releases/tag/v2.0-20210923
-	- Driver herunterladen: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
-	- Python herunterladen: (Version 3.7 oder höher)
+	- [Firmeware herunterladen](https://github.com/O-MG/O.MG-Firmware)
+	- [Treiber herunterladen](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+	- [Python herunterladen](https://www.python.org/) (Version 3.7 oder höher)
 
 	- `pyserial module` installieren:
 	```
-	$ python -m pip install pyserial <-oder-> $ python3 -m pip install pyserial
+	$ python -m pip install pyserial
+	oder
+    $ python3 -m pip install pyserial
 	```
 
 - `Entpacken der zip-Pakete nicht vergessen !`
@@ -21,15 +23,19 @@
 
 ### 2. flashen
 
-- Programmer und OMG-Cable in den PC einstecken
+- Für den Flash-Vorgang wird ein Programmer benötigt, der zwischen den PC und dem OMG-Cable gesteckt wird !
+
+- Programmer zwischen OMG-Cable und den PC stecken
 - Flasher starten:
-	- Terminal öffnen, auf das richtige Laufwerk wechseln und mit dem Befehl `$ cd` in den Ordner wechseln, wo sich das Flash Skript befindet.
+	- Terminal öffnen, auf das richtige Laufwerk wechseln und mit dem Befehl `$ cd` in den Ordner wechseln, wo sich das Flash-Skript befindet.
 
 
 - Befehl eingeben:
 	- Windows:
 	```
-	$ python ./flash.py <-oder-> $ python3 ./flash.py
+	$ python ./flash.py 
+	oder
+	$ python3 ./flash.py
 	```
 	- Linux: 
 	```
@@ -80,7 +86,7 @@ Hinweis: Je nach OMG-Cable Version/ Modell können die Spezifikationen abweichen
 
 ### 6. Links
 
-> [Github-OMG](https://github.com/O-MG/O.MG_Cable-Firmware/wiki)
+> [Github-OMG](https://github.com/O-MG/O.MG-Firmware/wiki)
 
 > [OMG-Setup](https://o.mg.lol/setup/OMGCable/)
 
