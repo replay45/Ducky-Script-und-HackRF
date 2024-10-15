@@ -16,6 +16,7 @@ Eine Übersicht mit einigen nützlichen Befehlen ist ebenfalls in diesem Reposit
 
 Außerdem finden sich Anleitungen zum HackRF one, sowie zum HackRF im PortaPack.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Disclaimer
 Alle folgenden Informationen und Anleitungen in diesem Repository sind ausschließlich für ethical Hacking und Bildungszwecke !
@@ -24,6 +25,7 @@ Das Befolgen der Anleitungen, das Ausführen von Befehlen, von Code, sowie Skrip
 Der Autor übernimmt keine Garantie für die Vollständigkeit und Korrektheit der Inhalte und haftet nicht für entstandene Schäden.
 Die Nutzung von Funkfrequenzen (RF) unterliegt den Gesetzen des jeweiligen Landes.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Links
 > hak5
