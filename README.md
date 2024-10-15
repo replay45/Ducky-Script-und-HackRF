@@ -3,10 +3,18 @@
 
 Die Ducky Skripte sollen veranschaulichen, was die Folgen von Unachtsamkeit bei der Nutzung von fremden USB-Kabeln/Geräten sein können.
 
-Die Ducky Skripte müssen ggf. individuell etwas angepasst werden.
+Die Skripte müssen ggf. vor der Nutzung noch an die individuellen Situationen angepasst werden.
+Je nach Betriebssystem, Leistung des Systems etc. müssen Dateipfade oder auch DELAYS (in Millisekunden) angepasst werden, denn ältere Systeme oder Systeme mit weniger Leistung benötigen evtl. ein höheres DELAY als modernere Hardware.
+
+Außerdem muss auch auf das Tastaturlayout Acht gegeben werden, denn hier kann es häufig zu Fehleingaben kommen. Daher empfiehlt es sich auf Umlaute zu verzichten.
+Die Beispielskripte in diesem Repository sind für ein englisches (US) Tastaturlayout geeignet. 
+Für Demonstrationen kann man auf dem entsprechenden Testsystem auch einfach das Tastaturlayout auf Englisch (US) stellen.
+
+Die Skripte aus diesem Repository haben am Anfang einige Hinweise und Kommentare (REM) zu dem Skript, die beachtet werden sollten.
+Eine Übersicht mit einigen nützlichen Befehlen ist ebenfalls in diesem Repository.
 
 
-Außerdem finden sich Anleitungen zum HackRF one, sowie zum HackRF im PortaPack. 
+Außerdem finden sich Anleitungen zum HackRF one, sowie zum HackRF im PortaPack.
 
 
 ### Disclaimer
