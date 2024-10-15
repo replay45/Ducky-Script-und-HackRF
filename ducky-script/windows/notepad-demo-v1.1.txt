@@ -1,7 +1,3 @@
-Community script from: https://ducktoolkit.com/userscripts
-
--------------------------------------------------
-
 REM ONLY A HACKING DEMO
 REM Opens the editor and writes the picture in it.
 REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
