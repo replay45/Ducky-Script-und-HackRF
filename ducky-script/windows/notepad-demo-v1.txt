@@ -1,3 +1,7 @@
+Community script from: https://ducktoolkit.com/userscripts
+
+-------------------------------------------------
+
 REM ONLY A HACKING DEMO
 REM Opens the editor and writes the picture in it.
 REM set keyboard layout: testet on "english (US)" recommendation for DuckyScript: english (US)
@@ -17,6 +21,7 @@ STRING           //               /           \
 ENTER
 STRING  .-------| |--------------/  __     __  \-------------------.__
 ENTER
+DELAY 100
 STRING  |WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
 ENTER
 STRING  `-------| |--------------| \__/   \__/ |-------------------'^^
@@ -32,27 +37,25 @@ ENTER
 STRING                              \       /
 ENTER
 STRING                               ^-----^
+DELAY 750
 ENTER
 STRING                +------------------------------------+
 ENTER
-STRING                | >>> IHR COMPUTER WURDE GEHACKT <<< |
+STRING                | >>> Hacking Demo  Hacking Demo <<< |
 ENTER
 STRING                +------------------------------------+
+DELAY 750
 ENTER
+STRING                insert your text here
 ENTER
-STRING                 Alle Ihre Passwoerter wurden mir 
+STRING                insert your text here
 ENTER
-STRING                 inklusive Ihrer EBanking-Zugangsdaten
+STRING                insert your text here
 ENTER
-STRING                 ueber das Internet uebermittelt...
-ENTER
-ENTER
-STRING                 Vielen Dank fuer Ihre Unterstuetzung!
-ENTER
-ENTER
+DELAY 750
 STRING                =======================================
 ENTER
-STRING                +++ HACKING +++ HACKING +++ HACKING +++
+STRING                +++  DEMO  +++  HACKING  +++  DEMO  +++
 ENTER
 STRING                =======================================
 ENTER
